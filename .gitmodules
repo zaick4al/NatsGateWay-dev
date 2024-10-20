@@ -1,0 +1,7 @@
+[submodule "QtNats"]
+	path = QtNats
+	url = git@gitlab.inbis-gua.local:Global/ExternalTools/QtNats.git
+[submodule "QtService"]
+	path = QtService
+	url = git@gitlab.inbis-gua.local:Global/ExternalTools/QtService.git
+	branch = dev

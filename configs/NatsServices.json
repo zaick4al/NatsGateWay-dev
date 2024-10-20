@@ -1,0 +1,30 @@
+{
+    "date": 1716796983,
+    "services": {
+        "serviceFileServer": {
+            "destinationPort": 3333,
+            "destinationUrl": "192.168.102.14",
+            "sourcePort": 4070
+        },
+        "serviceGitLab": {
+            "destinationPort": 80,
+            "destinationUrl": "192.168.101.87",
+            "sourcePort": 1080
+        },
+        "serviceHttp": {
+            "destinationPort": 8080,
+            "destinationUrl": "192.168.102.12",
+            "sourcePort": 8080
+        },
+        "serviceSSH": {
+            "destinationPort": 22,
+            "destinationUrl": "192.168.102.15",
+            "sourcePort": 4290
+        },
+        "serviceWs": {
+            "destinationPort": 8010,
+            "destinationUrl": "192.168.102.12",
+            "sourcePort": 8010
+        }
+    }
+}
