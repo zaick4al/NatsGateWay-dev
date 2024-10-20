@@ -1,7 +1,8 @@
 [submodule "QtNats"]
 	path = QtNats
-	url = git@gitlab.inbis-gua.local:Global/ExternalTools/QtNats.git
+	url = https://github.com/zaick4al/qtnats.git
+	branch = Qt6_CMake
 [submodule "QtService"]
 	path = QtService
-	url = git@gitlab.inbis-gua.local:Global/ExternalTools/QtService.git
-	branch = dev
+	url = https://github.com/zaick4al/QtService.git
+	branch = Qt6-Cmake
